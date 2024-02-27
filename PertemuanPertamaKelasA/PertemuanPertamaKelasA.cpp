@@ -10,6 +10,8 @@ int main()
 		// compute nLuas = 3.14 * r * r
 		// display 'Luasnya= ' + nLuas
 	float nJejari, nLuas;
+	cout << " Masukan Jejari = ";
+	cin >> nJejari;
 
 
 	system("pause");
